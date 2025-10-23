@@ -1,9 +1,7 @@
 export const Bio = {
   name: "VENKATA SATHWIK REDDY MODEPALLI",
   roles: [
-    "Data Analyst",
-    "FrontEnd Developer",
-    "UI/UX Designer",
+    "Data Analyst"
   ],
   description:
     "I’m a detail-oriented Computer Science graduate passionate about software development, data analytics, and emerging tech like Generative AI and cloud computing. I enjoy building intuitive web and mobile applications using tools like HTML, CSS, JavaScript, Flutter, and Python. With a strong foundation in both technical and analytical skills, I aim to create solutions that are efficient, user-friendly, and impactful. I'm always eager to learn and contribute to projects that drive innovation.",
@@ -453,4 +451,5 @@ export const projects = [
     
   },
 ];
+
 
