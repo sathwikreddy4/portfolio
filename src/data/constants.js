@@ -218,20 +218,18 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/022d0a4fb61f4b05866e9a4404beb25b",
-    role: "Associale L1 Intern",
-    company: "Infotact Solutions Pvt. Ltd.",
-    date: "Feb 2025 - Jun 2025",
-    desc: "Learning and applying new tools, frameworks, and technologies relevant to the project.Collaborated with the development team to design, develop, test, and deploy modules as per project requirements. Writing clean, efficient, and maintainable work using MERN stack.",
+    img: "https://shiple.in/static/media/shiple.a8f85a9880301e57a47c.png",
+    role: "Analyst Intern",
+    company: "SHIPLE(GSN INCLUSIVE LLP)",
+    date: "Feb 2025 - Aug 2025",
+    desc: "I was actively involved in data research, analysis, and presentation of insights to support strategic decision-making.",
     skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Express Js",
-      "MongoDB",
-      "HTML",
-      "CSS",
-      "JavaScript",
+      "NumPy",
+      "Pandas",
+      "MySQL",
+      "Microsoft Power BI",
+      "Excel (Formulas, Pivot Tables, Power Query)",
+      "MS Office",
     ],
     
   },
@@ -451,6 +449,7 @@ export const projects = [
     
   },
 ];
+
 
 
 
