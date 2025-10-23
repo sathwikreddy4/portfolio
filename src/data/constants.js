@@ -4,10 +4,10 @@ export const Bio = {
     "Data Analyst"
   ],
   description:
-    "I’m a detail-oriented Computer Science graduate passionate about software development, data analytics, and emerging tech like Generative AI and cloud computing. I enjoy building intuitive web and mobile applications using tools like HTML, CSS, JavaScript, Flutter, and Python. With a strong foundation in both technical and analytical skills, I aim to create solutions that are efficient, user-friendly, and impactful. I'm always eager to learn and contribute to projects that drive innovation.",
+    "I’m a detail-oriented Computer Science graduate passionate about data analytics, and emerging tech like Generative AI and cloud computing. I enjoy building intuitive web and mobile applications using tools like HTML, CSS, JavaScript, Flutter, and Python. With a strong foundation in both technical and analytical skills, I aim to create solutions that are efficient, user-friendly, and impactful. I'm always eager to learn and contribute to projects that drive innovation.",
   github: "https://github.com/sathwikreddy4",
   resume:
-    "https://drive.google.com/file/d/1AYGswSZcBE2P_hA1A8lYiGx1DPOPmzul/view?usp=drive_link",
+    "https://drive.google.com/file/d/1qwx6HuzHHwhYHOqE1Vmjmj_H61iNd2J9/view?usp=drive_link",
   linkedin: "http://www.linkedin.com/in/sathwikreddy09",
   twitter: "https://x.com/reddy_sathwik9",
   insta: "https://www.instagram.com/_.c2h5oh_/",
@@ -135,13 +135,13 @@ export const skills = [
     title: "Frontend",
     skills: [
       {
-        name: "React Js",
+        name: "ReactJS",
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
       
       {
-        name: "Next Js",
+        name: "Next JS",
         image:
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
       },
@@ -451,5 +451,6 @@ export const projects = [
     
   },
 ];
+
 
 
