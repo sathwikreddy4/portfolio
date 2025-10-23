@@ -4,7 +4,7 @@ export const Bio = {
     "Data Analyst"
   ],
   description:
-    "I’m a detail-oriented Computer Science graduate passionate about data analytics, and emerging tech like Generative AI and cloud computing. I enjoy building intuitive web and mobile applications using tools like HTML, CSS, JavaScript, Flutter, and Python. With a strong foundation in both technical and analytical skills, I aim to create solutions that are efficient, user-friendly, and impactful. I'm always eager to learn and contribute to projects that drive innovation.",
+    "As a data enthusiast with a strong foundation in SQL and Python, I specialize in transforming raw data into meaningful business insights. I’m proficient in libraries like Pandas, NumPy, Matplotlib, and Seaborn, and skilled in querying databases such as MySQL and PostgreSQL.My expertise also includes Power BI and Tableau, which I use to design interactive dashboards and compelling data visualizations that support data-driven decision-making. Through academic projects and self-initiated work, I’ve developed the ability to analyze trends, identify patterns, and communicate insights clearly to both technical and non-technical audiences.I’m eager to apply my skills in a professional setting, contribute to data-focused teams, and continuously grow as a data analyst. Open to full-time roles, internships, and collaborative opportunities in the analytics domain.",
   github: "https://github.com/sathwikreddy4",
   resume:
     "https://drive.google.com/file/d/1qwx6HuzHHwhYHOqE1Vmjmj_H61iNd2J9/view?usp=drive_link",
@@ -449,6 +449,7 @@ export const projects = [
     
   },
 ];
+
 
 
 
